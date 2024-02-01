@@ -1,0 +1,22 @@
+h1 {
+    color:darkolivegreen;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+h4 {
+    color:coral;
+    font-size: larger;
+    background-color: rgb(255, 233, 177);
+}
+
+li {
+    color:firebrick;
+    font-size: large;
+}
+
+p {
+    font-weight: lighter;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}

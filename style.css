@@ -1,0 +1,11 @@
+.title-bar {
+    color:brown;
+    background-color: beige;
+    text-align: center;
+}
+
+p {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
